@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-## Overview Challenge 6
+## Overview
 ### Purpose
 The purpose of this challenge was to learn how to make API requests to retrieve information and create maps with multiple layers and markers using gmaps. 
 ### Overview
